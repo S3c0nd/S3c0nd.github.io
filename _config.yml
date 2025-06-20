@@ -12,9 +12,9 @@ title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Weiliang Qi"
 description              : &description "Weiliang's Homepage"
-url                      : https://s3c0nd.github.io/qwlhappy/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://s3c0nd.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "S3c0nd/qwlhappy"
+repository               : "S3c0nd/s3c0nd.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
