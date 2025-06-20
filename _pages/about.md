@@ -15,4 +15,4 @@ Publications
 
 ### Enhancing Pre-Trained Language Models for Vulnerability Detection via Semantic-Preserving Data Augmentation
 Weiliang Qi, Jiahao Cao, Darsh Poddar, Sophia Li, Xinda Wang  
-Accepted by EAI International Conference on Security and Privacy in Communication Networks (SecureComm 2024)  
+Accepted by EAI International Conference on Security and Privacy in Communication Networks (SecureComm 2024) \[Paper[https://arxiv.org/abs/2410.00249]\]  
